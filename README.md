@@ -1,2 +1,2 @@
 # Learn.py
-learn.py challenge
+learn.py challenge organized by TinkerHub IETCU 
